@@ -21,8 +21,8 @@ Python file description.
 -> fasta_reader.py<br/>
 To read DNA seqences in Fasta format.<br/>
 
--> feature_extractor.py
+-> feature_extractor.py<br/>
 To extract all the features releted to this project.<br/>
 
--> methods.py
+-> methods.py<br/>
 All the methods to generate different features.<br/>
