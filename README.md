@@ -1,7 +1,7 @@
 # iPromoter70
 Identifying sigma 70 promoter using voting on classifiers.
 ----------------------------------------------------------------------------------
-Step 1: Download full project.\n
+Step 1: Download full project.<br/>
 Step 2: Extract and open with python 2.7
 Step 3: Run main.py.
 
