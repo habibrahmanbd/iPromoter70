@@ -14,7 +14,7 @@ All DNA sequences are 81bp.<br/>
 CSV file description
 ----------------------------------------------------------------------------------
 -> Features.csv<br/>
-Store all the feature vetros.<br/>
+Store all the feature vectors.<br/>
 
 Python file description.
 ----------------------------------------------------------------------------------
